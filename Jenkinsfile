@@ -6,7 +6,7 @@ job('test-pipeline){
   }
   steps {
      shell("""
-	echo 'Hello World!'
+	echo 'Hello World Dev!'
     """
        )
   }
